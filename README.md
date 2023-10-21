@@ -8,34 +8,34 @@
 </p>
 
 
-### 👩‍💻 Обо мне:
+### 👩‍💻 About me:
 
-Мне нравится решать сложные задачи: разрабатывать сайты и веб-приложения или создавать дизайн сайтов с удобным интерфейсом.
+I like to solve complex tasks: develop websites and web applications or create website design with a user-friendly interface.
 
-Меня захватывает процесс разработки и возможность создавать удобные и полезные продукты. Посмотрите мои работы на моём сайте https://.ru/ .
+I am fascinated by the development process and the opportunity to create convenient and useful products. Check out my work on my website https://.ru/ .
 
-Ещё защитил диплом [Веб-разработчика](https://practicum.yandex.ru/web/) в Яндекс Практикуме. Ежедневно практикуюсь в программировании, пишу pet-проекты, изучаю алгоритмы и фреймворки (React).
+Defended the diploma [Web-developer](https://practicum.yandex.ru/web/) in Yandex Practicum. I practice programming every day, write pet projects, study algorithms and frameworks (React).
 
-Я открыт к предложениям на позицию frontend-разработчика, где могу внести свой вклад и развиваться вместе с компанией. Если у вас есть вакансия, которая соответствует моим навыкам и опыту, не стесняйтесь связаться со мной, буду рад сотрудничеству.
+I am open to suggestions for the position of frontend developer, where I can contribute and develop together with the company. If you have a vacancy that matches my skills and experience, do not hesitate to contact me, I will be glad to cooperate.
 
-🎯 **Мои цели**:
-- Научиться писать чистый код;
-- Работать в дружной команде разработчиков;
-- Работать над интересными проектами;
-- Внести вклад в успех компании.
+🎯 **My goals**:
+- Learn how to write clean code;
+- Work in a friendly development team;
+- Work on interesting projects;
+- Contribute to the success of the company.
 
-⚡ **Несколько фактов**:
+⚡ **A few facts**:
 
-- Разработал:
+- Developed:
   
   
-📫 **Cвязаться со мной**: 
+📫 **Contact me**: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maikl-shalygin-a116a196/), [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com//), [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/), [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/)
   
 ---
 
-### 🛠 Языки и Технологии:
+### 🛠 Languages and Technologies:
 [![Git](https://user-images.githubusercontent.com/86494748/128634186-d1b69fc3-322b-4344-89d0-615670eaaa93.png)](https://git-scm.com/)
 [![HTML5](https://user-images.githubusercontent.com/86494748/128634189-e6ded326-aeb9-4f8d-8508-f0fcd7f1d891.png)](https://html5book.ru/html-html5/)
 [![CSS3](https://user-images.githubusercontent.com/86494748/128634188-71178ce2-89cf-4283-9f5a-87ff5d3b4854.png)](https://html5book.ru/css-css3/)
@@ -48,7 +48,7 @@
 
 
 
-### 🎨 Графические редакторы:
+### 🎨 Graphic Editors:
 [![Adobe Photoshop](https://user-images.githubusercontent.com/86494748/128635710-d46970f1-a171-461d-acd8-f4d8aa5c01e8.png)](https://www.adobe.com/ru/products/photoshop.html)
 [![Adobe Bridge](https://user-images.githubusercontent.com/86494748/128635702-771f0b4f-95df-4203-ba4f-9d188eef32f8.png)](https://www.adobe.com/ru/products/bridge.html)
 [![Adobe Lightroom](https://user-images.githubusercontent.com/86494748/128635705-23fafa8b-d302-40f7-8853-54105cdd6842.png)](https://www.adobe.com/ru/products/photoshop-lightroom.html)
@@ -61,7 +61,7 @@
 
 ---
 
-### 👨‍🎓 Образование:
-
+### 👨‍🎓 Education:
+Defended the diploma [Web-developer](https://practicum.yandex.ru/web/) in Yandex Practicum.
 ---
 
