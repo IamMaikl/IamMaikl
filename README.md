@@ -1,4 +1,4 @@
-<h2 align="center">My name is Maikl, i am Web-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">My name is Mikhail, i am Web-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <p align="center">
 <!--<a href="https://www.linkedin.com/in/maikl-shalygin-a116a196/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
